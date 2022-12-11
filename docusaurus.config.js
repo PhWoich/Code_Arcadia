@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Codex Arcadia',
   tagline: 'TTRPG de Fantasia Espacial',
-  url: 'https://github.com',
+  url: 'https://PhWoich.github.io',
   baseUrl: '/Codex_Arcadia/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'PhWoich', // Usually your GitHub org/user name.
-  projectName: 'Codex Arcadia', // Usually your repo name.
+  projectName: 'Codex_Arcadia', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
