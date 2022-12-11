@@ -9,14 +9,14 @@ const config = {
   title: 'Codex Arcadia',
   tagline: 'TTRPG de Fantasia Espacial',
   url: 'https://github.com',
-  baseUrl: '/PhWoich/Codex_Arcadia',
+  baseUrl: '/Codex_Arcadia/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Pedro Woich', // Usually your GitHub org/user name.
+  organizationName: 'PhWoich', // Usually your GitHub org/user name.
   projectName: 'Codex Arcadia', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
