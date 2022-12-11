@@ -10,7 +10,7 @@ const config = {
   tagline: 'TTRPG de Fantasia Espacial',
   url: 'https://PhWoich.github.io',
   baseUrl: '/Codex_Arcadia/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
