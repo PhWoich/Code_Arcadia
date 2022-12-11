@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodex_arcadia=self.webpackChunkcodex_arcadia||[]).push([[760],{9475:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/Codex_Arcadia/blog/tags/hola","allTagsPath":"/Codex_Arcadia/blog/tags","count":1}')}}]);
