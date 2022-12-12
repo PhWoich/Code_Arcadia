@@ -1,4 +1,5 @@
 import React from 'react';
+import Highlight from '@site/src/components/Highlight';
 
 function getCorPorRaridade(raridade){
     if (raridade.toLowerCase() == 'raro'){
@@ -15,11 +16,11 @@ export default function ItemCard({children, nome, raridade}) {
     <div style={{
         borderStyle: 'solid', 
         borderColor: getCorPorRaridade(raridade),
-        borderRadius: '5px',
-        padding: '5px'
+        borderRadius: '7px',
+        padding: '15px'
     }}>
         <h2>
-            {nome}
+            {nome} <Highlight color={getCorPorRaridade(raridade)}>{raridade.toUpperCase()}</Highlight>
         </h2>
         <div>
             {children}
