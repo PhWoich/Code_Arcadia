@@ -17,7 +17,7 @@ Como a soma de heranças + Arquétipos irá definir tantos seus atributos quanto
 - Defesa = 0 + A defesa fornecida pelas seus itens.
 - Saúde = (Valor máximo do dado de Físico) divididos por 2.
 :::info Tabela de Vida por dado de Físico
-| Dado | Máximo de daúde |
+| Dado | Máximo de Saúde |
 |---|----------|
 | d4 | 2 |
 | d6 | 3 |
