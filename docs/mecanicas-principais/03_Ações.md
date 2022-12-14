@@ -11,6 +11,8 @@ Existem 4 tipos de ações que mudam um pouco como funciona o teste que deve ser
 :::danger Ataque
 Um ataque é toda vez que um personagem tentar agir diretamente contra outro personagem, para causar dano ou desmoralizar. para realizar um ataque o personagem deve realiza um teste de Combate para ataques físicos, ou um teste de Social para ataques psicológicos.
 
+Por padrão o ataque causa uma Condição Padrão. Em caso de acertos críticos, o ataque causa uma Condição Severa.
+
 **Múltiplos Ataques:** Sempre que um personagem desejar realizar mais de 1 ataque, o primeiro ataque é normal, mas para cada novo ataque a dificuldade do teste de ataque sobe em 1 nível.
 :::
 

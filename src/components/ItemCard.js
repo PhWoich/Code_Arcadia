@@ -11,7 +11,7 @@ function getCorPorRaridade(raridade){
     }
 }
 
-export default function ItemCard({children, nome, raridade}) {
+export default function ItemCard({children, nome, raridade, tags}) {
   return (
     <div style={{
         borderStyle: 'solid', 
