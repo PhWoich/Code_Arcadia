@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodex_arcadia=self.webpackChunkcodex_arcadia||[]).push([[417],{2125:a=>{a.exports=JSON.parse('{"permalink":"/Codex_Arcadia/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

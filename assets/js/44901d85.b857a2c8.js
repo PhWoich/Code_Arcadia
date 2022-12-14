@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodex_arcadia=self.webpackChunkcodex_arcadia||[]).push([[2862],{6332:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/Codex_Arcadia/blog/tags/docusaurus","allTagsPath":"/Codex_Arcadia/blog/tags","count":4}')}}]);
