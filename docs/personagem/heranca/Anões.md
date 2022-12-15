@@ -27,6 +27,7 @@ As funções funcionam como prefixos nos nomes dos anões
 Normalmente os anões carregam como nome dos clãs o nome das principais gemas que extraem e convivem. Também carregam o nome delas já que a magia das gemas acaba alterando um pouco a fisionomia dos anões que são constantemente expostos a ela:
 
 | Clã | Treinamentos | História/Descrição |
+|---|----------|----------|
 | Ethkin | +1 nível de Conhecimento | Clã dos anões de Esmeralda. Normalmente encontrados nas constelações do grupo Ether, possuem pele clara com cabelos esverdeados e olhos azulados. São conhecidos por serem os mais curiosos e o mais levados a se envolver com a Magia ou com Gem-tech, por isso são buscados para desenvolvimento de itens encantados e computação. |
 | Hulkin | +1 nível de Combate | Clã dos anões de Rubi. Vivem nas constelações do grupo Helias, além de serem exímios guerreiros são conhecidos fabricantes de armas e armaduras nos maiores dos calores, tendo corpos mais resistenstes que os demais. Possuem pele mais escuras com olhos, cabelos e barbas extremamente avermelhados. |
 | Maetkin | +1 nível de Físico | Clã dos anões de Bismuto. Cabelos com múltiplas cores é o que marca esse clã visualmente. São chamados e contratados para a construção de cidades e criações de grandes portes como Mechbeasts. |
