@@ -34,7 +34,6 @@ Normalmente os anões carregam como nome dos clãs o nome das principais gemas q
 | Sannkin | +1 nível de Social | Clã dos anões de Ambar. Esses anões de cabelos e barbas dourados são extremamente ligados a tradições e a história da galáxia. São conhecidos pela fabricação de joias e belas vestimentas, conseguindo reproduzir vestes de qualquer ciclo que conheçam e vendendo as replicas por bom preços. |
 | Vulkin | +1 nível de Agilidade | Clã dos anões de Ametista. Vindos das constelações de Vacum, possuem pele escura com olhos e cabelos roxos. Esses são mais silenciosos e talvez mais introvertidos? São especialistas em tecnologias de camuflagem e fuga, assim como armadilhas e alertas. |
 
-## Finalizando seu anão
 No final os sobrenomes separam o prefixo do clã por um hífen, criando assim o sobrenome do anão. Exemplo um guerreiro do clã de rubi seria Tormond Bel-Hulkin, uma maga do clã de ouro seria esmeralda Vidia Tel-Ethkin ou um artesão do clã de ametista seria Calond Fol-Vulkin.
 
 Um jogador pode sempre criar seu próprio clã ou função, desde que seja aprovado pelo narrador para usar no jogo.
