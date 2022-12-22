@@ -30,7 +30,7 @@ São a forma mais comum de condições e que representam ferimentos leves e situ
 - **Lento** → Seu deslocamento é reduzido em 1. Viagens possuem sua dificuldade aumentada em 1 nível, sem passar de 5.
 - **Estresse** → O dano mental padrão. Sempre que algo causar dano mental e não especificar o dano pode ser considerado que causa "Estresse".
 - **Confuso** → Testes de Percepção possuem desvantagem.
-- **Marcado** → Testes contra um personagem marcado possuem vantagem. Defesas de um personagem marcado possuem desvantagem.
+- **Vulneravel** → Testes contra um personagem marcado possuem vantagem. Defesas de um personagem marcado possuem desvantagem.
 - **Medo** → Testes de Vontade possuem desvantagem.
 
 ### Condições Severas

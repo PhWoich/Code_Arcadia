@@ -11,20 +11,29 @@ function getCorPorRaridade(raridade){
     }
 }
 
+function tagItem(tag){
+    if(tag.toLowerCase() == 'gem-tech' || tag.toLowerCase() == 'gemtech'){
+        return(<Highlight color='#4d9e96'>{tag.toUpperCase()}</Highlight>);
+    }
+    return(<Highlight color='#5c5c5c'>{tag.toUpperCase()}</Highlight>);
+}
+
 export default function ItemCard({children, nome, raridade, tags}) {
-  return (
-    <div style={{
-        borderStyle: 'solid', 
-        borderColor: getCorPorRaridade(raridade),
-        borderRadius: '7px',
-        padding: '15px'
-    }}>
-        <h2>
-            {nome} <Highlight color={getCorPorRaridade(raridade)}>{raridade.toUpperCase()}</Highlight>
-        </h2>
-        <div>
-            {children}
+    var listaTags = tags.split(","); 
+
+    return (
+        <div style={{
+            borderStyle: 'solid', 
+            borderColor: getCorPorRaridade(raridade),
+            borderRadius: '7px',
+            padding: '15px'
+        }}>
+            <h2>
+                {nome} <Highlight color={getCorPorRaridade(raridade)}>{raridade.toUpperCase()}</Highlight>{listaTags.map(tagItem)}
+            </h2>
+            <div>
+                {children}
+            </div>
         </div>
-    </div>
   );
 }

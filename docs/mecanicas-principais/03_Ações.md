@@ -55,8 +55,12 @@ Poderes são formas de mudar as regras de alguma forma em favor do personagem, c
 Cada arquétipo possui poderes próprios, assim como evoluções desses poderes. O personagem vai conseguir essas poderes e evoluções de acordo com que sobe de nível e progride dentro do arquétipo.
 
 ## Façanhas
-Façanhas são como ações incríveis que só podem ser executas pelos personagens. Para executar uma façanha o jogador deve consumir pontos de experiência que possua. Caso os pontos de experiência zerem o jogador não pode mais realizar façanhas e não pode converter níveis que já possua em experiência para realizar façanhas.
+Façanhas são como vantagens que um jogador consegue usar por conta de seus passados e laços. Uma façanha só pode ser realizada quando um jogador consome pontos de EXP para então consegui uma vantagem. Todos os personagens podem realizar as façanhas:
 
-Assim como habilidades, cada arquétipo possui façanhas próprias, assim como existem façanhas gerais que todos os arquétipos podem escolher.
+| Custo | Façanha | Efeito |
+|---|---|----------|
+| 1 EXP | Eu ja fiz isso! | Na sua vida, no seu passado, você já fez isso e sabe o que está fazendo. O jogador argumenta como um de seus laços ou passados influenciaria no teste e, caso o narrador aceite, o jogador consome 1 de EXP e realiza o teste com vantagem. |
+| 2 EXP | Eu tenho que conseguir! | Você sabe que tem que conseguir realizar seus objetivos, nada deve tem parar, nem você mesmo. O jogador argumenta como um de seus laços ou passados influenciaria no teste e, caso o narrador aceite, o jogador consome 2 de EXP e rerola o teste que falhou. |
+| 2 EXP | Você consegue, não desista! | Você não pode deixar seu amigos desistirem, vocês estão nessa juntos. Ao ver um aliado flhando num teste, o jogador argumenta como um de seus laços ou passados influenciaria no teste e, caso o narrador aceite, o jogador consome 2 de EXP e o aliado rerola o teste. |
 
-Todos os personagens começam com a façanha geral "Adicionar 1d6 em um teste(1 EXP)".
+Da mesma forma que você pode usar dos seus laços e do seu passado para realizar façanhas, o Narrador pode usardeles para te colocar em desvantagem numa situação. Quando o Narrador fizer isso ele deve anunciar e você recebe 1 de EXP.

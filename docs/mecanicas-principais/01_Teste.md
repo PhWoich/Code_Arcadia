@@ -30,13 +30,11 @@ Independente de valor de total de vantagens ou desvantagens, o personagem sempre
 
 
 :::tip Conseguindo Vantagens
-Para conseguir vantagem o jogador pode usar algo da cena para pedir vantagem, como usar uma mesa virada para se defender de ataques ou usar um terreno mais alto para se mover mais facilmente.
+Para conseguir vantagem o jogador pode usar algo da cena para pedir vantagem, como usar uma mesa virada para se defender de ataques ou usar um terreno mais alto para se mover mais facilmente. Quem acaba decidindo se tal momento da cena cria vantagem ou não.
 
-Outro jeito de conseguir o vantagem seria utilizar um traço. Todos os traços possuem uma descrição sobre o que o define, no que pessoas com aquele traço são boas e quais a suas habilidades. Em qualquer teste o jogador pode argumentar do porque um de seus traços pode ser aplicado e, se o narrador aceitar os argumentos, o jogador pode fazer o teste com vantagem.
+Outro jeito de conseguir o vantagem seria utilizar uma Façanha. A qualquer momento um jogador pode usar a regra de Façanha para conseguir vantagem em um teste, usando dos laços do seu personagem para conseguir vantagem.
 
-A mesma regra de argumentação pode ser feita usando Laços e Passado do personagem, em qualquer momento o jogador pode argumentar de como seus laços e seu passado afeta o teste atual e caso narrador aceite o teste é feito com vantagem.
-
-Da mesma forma que podem gerar vantagem, o narrador pode usar Traços, Laços, Passado e Condições Permanentes para gerar desvantagem para o personagem.
+Da mesma forma que podem gerar vantagem, o narrador pode usar a regra de Façanha para ciar uma desvantagem para o seu personagem.
 :::
 
 
