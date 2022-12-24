@@ -16,7 +16,7 @@ Por padrão o ataque causa uma Condição Padrão. Em caso de acertos críticos,
 **Múltiplos Ataques:** Sempre que um personagem desejar realizar mais de 1 ataque, o primeiro ataque é normal, mas para cada novo ataque a dificuldade do teste de ataque sobe em 1 nível.
 :::
 
-:::info Se Proteger
+:::info Defesa
 Testes para se proteger são testes normalmente chamados pelo mestre para o jogador reagir a algo, como desviar de um ataque ou fugir de uma armadilha. Testes de Se Proteger podem ser feitas com qualquer habilidade, normalmente o narrador vai pedir uma habilidade, mas o jogadores podem argumentar como usam outra habilidade para fazer o teste e, se o narrador aceitar, podem fazer o teste com essa outra habilidade. Normalmente, testes de Se Proteger não consomem energia, mas o personagem pode escolher reservar energia para o teste e, se o fizer, para cada de energia que você deixou para se defender a dificuldade das defesas desce em um nível.
 :::
 
