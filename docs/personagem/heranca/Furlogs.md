@@ -10,7 +10,7 @@ Furlogs são bons em duas coisas, causar o caos e sobreviver as suas consequenci
 
 Apesar de todos curtirem um caos, Furlogs tem o seu tipo favorito de caos e se especializam neles.
 
-É importante ressaltar que apesar de gostarem do caos, furlogs não são autodestrutivos, eles são mais eternas crianças que adoram pregar peças, em especial naqules que menos gostam. Mas sempre sabem levar coisas a sério quando preciso
+É importante ressaltar que apesar de gostarem do caos, furlogs não são autodestrutivos, eles são mais eternas crianças que adoram pregar peças, em especial naqules que menos gostam. Mas sempre sabem levar coisas a sério quando preciso.
 
 ### Caos Favorito
 São os tipos de Caos que os Furlogs mais gostam
