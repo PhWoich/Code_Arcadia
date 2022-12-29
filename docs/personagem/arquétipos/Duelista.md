@@ -25,7 +25,9 @@ Por con tas mutações e alterações, todas a Bio-Armas recebe os bônus:
 - +1 Nível da habilidade da sua motivação
 - 1 Defesa Comum
 - 1 Arma Incomum
-- O Poder Inicial da sua motivação 
+- O Poder Inicial da sua motivação
+- 1d4 * 10 de Recursos
+- 1d6 * 10 de Quartzos 
 
 ## Poderes
 

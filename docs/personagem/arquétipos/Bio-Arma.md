@@ -25,6 +25,8 @@ Por conta das mutações e alterações, todas a Bio-Armas recebe os bônus:
 - +1 Nível de habilidade do seu motivo de ser uma bio-arma 
 - Roupas Simples
 - O Poder Inicial do seu motivo 
+- 1d4 * 10 de Recursos
+- 1d4 * 10 de Quartzos
 
 ## Poderes
 
