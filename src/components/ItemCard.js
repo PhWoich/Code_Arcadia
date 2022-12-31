@@ -16,12 +16,44 @@ function tagItem(tag){
         return(<Highlight color='#4d9e96'>{tag.toUpperCase()}</Highlight>);
     }
     //GEM-TECH de RUBI
-    if(tag.toLowerCase() == 'arma' || tag.toLowerCase() == 'gt-rubi'){
+    if(tag.toLowerCase() == 'arma' || tag.toLowerCase() == 'rubi'){
         return(<Highlight color='#ff2b2b'>{tag.toUpperCase()}</Highlight>);
     }
     
-    if(tag.toLowerCase() == 'defesa'){
+    if(tag.toLowerCase() == 'defesa' || tag.toLowerCase() == 'onyx'){
         return(<Highlight color='#333333'>{tag.toUpperCase()}</Highlight>);
+    }
+
+    if(tag.toLowerCase() == 'armadilhas' || tag.toLowerCase() == 'pedra de sangue'){
+        return(<Highlight color='#700808'>{tag.toUpperCase()}</Highlight>);
+    }
+
+    if(tag.toLowerCase() == 'condutores' || tag.toLowerCase() == 'mapas estelares' || tag.toLowerCase() == 'safira'){
+        return(<Highlight color='#4181ba'>{tag.toUpperCase()}</Highlight>);
+    }
+
+    if(tag.toLowerCase() == 'data-core' || tag.toLowerCase() == 'esmeralda'){
+        return(<Highlight color='#50c878'>{tag.toUpperCase()}</Highlight>);
+    }
+
+    if(tag.toLowerCase() == 'camuflagem' || tag.toLowerCase() == 'ametista'){
+        return(<Highlight color='#9966cc'>{tag.toUpperCase()}</Highlight>);
+    }
+
+    if(tag.toLowerCase() == 'mobilidade' || tag.toLowerCase() == 'pedra lunar'){
+        return(<Highlight color='#491c75'>{tag.toUpperCase()}</Highlight>);
+    }
+
+    if(tag.toLowerCase() == 'ferramentas' || tag.toLowerCase() == 'bismuto'){
+        return(<Highlight color='#99b7b1'>{tag.toUpperCase()}</Highlight>);
+    }
+
+    if(tag.toLowerCase() == 'luz' || tag.toLowerCase() == 'ambar'){
+        return(<Highlight color='#ffbf00'>{tag.toUpperCase()}</Highlight>);
+    }
+
+    if(tag.toLowerCase() == 'mechbeasts' || tag.toLowerCase() == 'topazio'){
+        return(<Highlight color='#ffc87c'>{tag.toUpperCase()}</Highlight>);
     }
     
     return(<Highlight color='#5c5c5c'>{tag.toUpperCase()}</Highlight>);
@@ -52,7 +84,8 @@ export default function ItemCard({children, nome, raridade, tags, recursos, recu
             borderStyle: 'solid', 
             borderColor: getCorPorRaridade(raridade),
             borderRadius: '7px',
-            padding: '15px'
+            padding: '15px',
+            marginBottom: '20px'
         }}>
             <h2>
                 {nome} <Highlight color={getCorPorRaridade(raridade)}>{raridade.toUpperCase()}</Highlight>{listaTags.map(tagItem)}
@@ -60,7 +93,7 @@ export default function ItemCard({children, nome, raridade, tags, recursos, recu
             <div style={{fontSize:"14pt"}}>
                 {children}
             </div>
-            <br/>
+            <hr/>
             <div>
                 <b>Recursos Necessários:</b> {recursos}   |   <b>Custo em Quartzos:</b> {valorQuartzo(recursos)}
             </div>
